@@ -1,4 +1,0 @@
-The goal is to take the image of a handwritten simple graph and extract the adjacency matrix and incidence matrix of the same
-Few things to note in the code:
-1. Vertices are identified by English uppercase letters
-2. Vertices are colored in Red and Edges are colored in Blue for identification 
