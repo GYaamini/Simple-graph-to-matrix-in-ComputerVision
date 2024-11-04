@@ -22,19 +22,7 @@ Checking Connectivity
 
 Draw up 
 Adjacency matrix 
-	A	B	C	D	E	F
-A	0	1	1	0	0	0
-B	1	0	0	1	1	0
-C	1	0	0	1	0	0
-D	0	1	1	0	1	0
-E	0	1	0	1	0	0
-F	0	0	0	0	0	0
+<img width="226" alt="image" src="https://github.com/user-attachments/assets/051ae520-16f8-4bd7-a491-b05ef8ca8d7c">
 
 Incidence Matrix
-	1	2	3	4	5	6
-A	1	1	0	0	0	0
-B	1	0	1	1	0	0
-C	0	1	0	0	1	0
-D	0	0	1	0	1	1
-E	0	0	0	1	0	1
-F	0	0	0	0	0	0
+<img width="225" alt="image" src="https://github.com/user-attachments/assets/08e5f2a4-880e-465e-b4ac-ecff05cfe42e">
