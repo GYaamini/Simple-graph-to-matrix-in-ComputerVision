@@ -22,7 +22,7 @@ Checking Connectivity
 
 Draw up 
 Adjacency matrix 
-  A	B	C	D	E	F
+	A	B	C	D	E	F
 A	0	1	1	0	0	0
 B	1	0	0	1	1	0
 C	1	0	0	1	0	0
